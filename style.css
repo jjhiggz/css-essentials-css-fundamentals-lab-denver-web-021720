@@ -4,7 +4,7 @@ header a {
   background-color: grey;
 
 }
-img[title]{
+img[title="Welcome to Exceptional Realty Group"]{
   color: red
 }
 img {
