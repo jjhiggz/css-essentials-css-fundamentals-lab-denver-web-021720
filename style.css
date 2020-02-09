@@ -4,7 +4,7 @@ header a {
   background-color: grey;
 
 }
-img title {
+img[title]{
   font-size: 1px
 }
 img {
