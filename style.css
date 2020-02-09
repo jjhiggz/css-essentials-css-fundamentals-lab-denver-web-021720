@@ -6,6 +6,7 @@ a {
 }
 
 img {
+  image-orientation: 90deg;
   margin:auto;
 }
 
