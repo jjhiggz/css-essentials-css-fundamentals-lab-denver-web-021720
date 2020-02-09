@@ -5,7 +5,7 @@ header a {
 
 }
 img[title]{
-  font-size: 1px
+  color: red
 }
 img {
   display:block;
