@@ -6,6 +6,7 @@ a {
 }
 
 img {
+  self-align:center;
   image-orientation: 90deg;
   margin:auto;
 }
@@ -16,9 +17,6 @@ header {
 }
 
 body {
-  align-content: center;
-  align-text:center;
-  align-self: center;
   width: 100%;
   height: 100%;
   margin: 0;
