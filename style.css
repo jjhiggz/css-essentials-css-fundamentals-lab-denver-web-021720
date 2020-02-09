@@ -30,5 +30,6 @@ background-color: red;
 
 }
 div {
-  width: auto;
+  align-content: stretch;
+
 }
