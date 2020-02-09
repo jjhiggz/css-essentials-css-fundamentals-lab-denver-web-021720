@@ -4,10 +4,10 @@ a {
   background-color: grey
 }
 img {
-  align-self: center;
+  margin:auto;
 }
 header {
-  align-self: center;
+  margin:auto;
 }
 
 body {
