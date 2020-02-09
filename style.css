@@ -7,8 +7,9 @@ a {
 
 img {
   self-align:center;
-  image-orientation: 90deg;
-  margin:auto;
+  margin-left: auto;
+  margin-right: auto
+
 }
 
 header {
